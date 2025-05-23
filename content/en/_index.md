@@ -1,8 +1,9 @@
 ---
-title: DeployView AGILE
+title: DeployView Agile
 ---
 
-{{< blocks/cover title="Welcome to DeployView Agile!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Empowering Agile Teams for Success" image_anchor="top" height="full" >}}
+<p class="lead mt-5">Unleashing Agile Potential for Lasting Growth with Expert Scrum and Agile Training, Coaching and Consulting</p>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
   UK <i class="fab fa-whatsapp ms-2"></i>
 </a>
@@ -12,69 +13,62 @@ title: DeployView AGILE
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+33759255103">
   France <i class="fab fa-whatsapp ms-2"></i>
 </a>
-<!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
-
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+Our focus is on unlocking your true potential and fostering Agile capabilities within your organisation. Whether you’re looking to become a Certified Scrum Master, embrace Agile leadership, or implement Kanban methodologies, we have the expertise and resources to support your growth and success in today’s dynamic business environment.
 {{% /blocks/lead %}}
 
-
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
-
-Please follow this space for updates!
+{{% blocks/feature icon="fa-lightbulb" title="" %}}
+Public Training
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fa-lightbulb" title="" url="" %}}
+Private Training
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fa-lightbulb" title="" url="" %}}
+Consulting
 {{% /blocks/feature %}}
-
 
 {{% /blocks/section %}}
 
-
 {{% blocks/section %}}
-This is the second section
+Scrum and Agile Training
 {.h1 .text-center}
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+{{% blocks/feature icon="fa-lightbulb" title="Flexible Learning" %}}
+With a selection of in-person, online, and on-demand training options, you can choose the Agile training that suits you.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fa-lightbulb" title="Maximise your budget"
+    url="" %}}
+Your training budget can go further with our training packages, in-house and on-demand course options.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fa-lightbulb" title="Bonus Content"
+    url="" %}}
+Gain access to e-learning courses, tools and more with discounted access to our online learning portal with every order.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
-
 {{% blocks/section %}}
-This is the another section
+All of our courses can be delivered privately for your team or organisation.
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
+  UK <i class="fab fa-whatsapp ms-2"></i>
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+32467830927">
+  Belgium <i class="fab fa-whatsapp ms-2"></i>
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+33759255103">
+  France <i class="fab fa-whatsapp ms-2"></i>
+</a>
 {.h1 .text-center}
 {{% /blocks/section %}}
