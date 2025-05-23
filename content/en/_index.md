@@ -72,4 +72,5 @@ All of our courses can be delivered privately for your team or organisation.
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+33759255103">
   France <i class="fab fa-whatsapp ms-2"></i>
 </a>
+{.h1 .text-center}
 {{% /blocks/section %}}
