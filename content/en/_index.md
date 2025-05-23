@@ -61,6 +61,8 @@ Gain access to e-learning courses, tools and more with discounted access to our 
 
 {{% blocks/section %}}
 All of our courses can be delivered privately for your team or organisation.
+{.h1 .text-center}
+
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
   UK <i class="fab fa-whatsapp ms-2"></i>
 </a>
@@ -70,5 +72,4 @@ All of our courses can be delivered privately for your team or organisation.
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+33759255103">
   France <i class="fab fa-whatsapp ms-2"></i>
 </a>
-{.h1 .text-center}
 {{% /blocks/section %}}
