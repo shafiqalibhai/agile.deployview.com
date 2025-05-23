@@ -3,9 +3,15 @@ title: DeployView AGILE
 ---
 
 {{< blocks/cover title="Welcome to DeployView Agile!" image_anchor="top" height="full" >}}
-<!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a> -->
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+447440344860">
+  UK <i class="fab fa-whatsapp ms-2"></i>
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+32467830927">
+  Belgium <i class="fab fa-whatsapp ms-2"></i>
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wa.me/+33759255103">
+  France <i class="fab fa-whatsapp ms-2"></i>
+</a>
 <!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
