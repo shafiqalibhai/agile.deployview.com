@@ -31,4 +31,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages # default: gh-pages
-          cname: agile.deployview.com   # default: no custom domain
+          cname: manage.deployview.com   # default: no custom domain
