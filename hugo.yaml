@@ -1,5 +1,5 @@
-baseURL: https://agile.deployview.com
-title: DeployView Agile
+baseURL: https://manage.deployview.com
+title: DeployView Management Services
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -46,7 +46,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: DeployView Agile
+    title: DeployView Management Services
     params:
       description: 
   # cSpell:disable
@@ -214,7 +214,7 @@ module:
   # workspace: docsy.work
   hugoVersion:
     extended: true
-    min: 0.110.0
+    min: 0.146.0
   imports:
     - path: github.com/google/docsy
       disable: false
