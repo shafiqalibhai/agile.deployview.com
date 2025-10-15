@@ -1,5 +1,5 @@
 ---
-title: DeployView Agile
+title: DeployView Mangement Services
 ---
 
 {{< blocks/cover title="Empowering Agile Teams for Success" image_anchor="top" height="full" >}}
